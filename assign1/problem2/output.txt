@@ -1,0 +1,13 @@
+______________________________________________________________________
+              Token            Count            Lexeme
+_____________________________________________________________________
+              REAL_LITERAL            1             10
+              REAL_LITERAL            1             5
+              OPERATOR            1            &&
+              OPERATOR            3            =
+              NAME            2            BitwiseExample
+              KEYWORD            1            end
+              KEYWORD            2            program
+              NAME            2            x
+              NAME            2            y
+              NAME            1            z
